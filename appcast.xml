@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>CashTide</title>
+        <item>
+            <title>0.0.2</title>
+            <description xml:lang="en"><![CDATA[ 
+                <h2> 0.0.2</h2>
+                <li> Fixed some known issues.</li>
+            ]]>
+            </description>
+            <description xml:lang="zh-Hans"><![CDATA[ 
+                <h2> 0.0.2</h2>
+                <li> 修复了一些已知问题。</li>
+            ]]>
+            </description>
+            <pubDate>Mon, 10 Feb 2025 17:26:32 +0800</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://drive.usercontent.google.com/download?id=1plrlkIL7C0Sn1CICtePGzR6QQI44MZ7e&export=download&authuser=0&confirm=t&uuid=f0d93525-2530-4368-831c-21274363c24f&at=AIrpjvP3FGk9G1jJnAO4oaSt2f_Z%3A1739242163215"
+                length="11395333"
+                type="application/octet-stream"
+                sparkle:edSignature="ZCJrViooLndiQLFek5vahEH3JbgMjcnrXPXUUx2VKJAUUD+PglVmDs8ancmPiJC/6tzsyAdomL2GR05AqR6TAw==" />
+        </item>
+        <item>
+            <title>0.0.1</title>
+            <description xml:lang="en"><![CDATA[ 
+                <h2> 0.0.1</h2>
+                <li> CashTide is officially released.</li>
+            ]]></description>
+            <description xml:lang="zh-Hans"><![CDATA[ 
+                <h2> 0.0.1</h2>
+                <li> CashTide正式发布。</li>
+            ]]></description>
+            <pubDate>Mon, 10 Feb 2025 16:30:36 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="CashTide-prod-0.0.1+1.dmg" length="11378317"
+                type="application/octet-stream"
+                sparkle:edSignature="BWGOiK4SRALBN+vT80qdjWIMYdtffkIBaFxhrt7m4GiNYaCr28dzmOuxsGRAsAjfgjG523cJ5JTAYQ/aX4Q+Dw==" />
+        </item>
+    </channel>
+</rss>
